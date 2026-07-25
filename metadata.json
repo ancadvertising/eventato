@@ -1,0 +1,6 @@
+{
+  "name": "Eventato - نظام إدارة المعارض والفعاليات",
+  "description": "منصة B2B متكاملة لإدارة التوريدات، الحسابات المزدوجة، توزيع المهام، والمخطط التفاعلي للأجنحة - ANC for Software Solutions",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
